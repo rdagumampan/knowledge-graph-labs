@@ -31,3 +31,5 @@ Collection of learnings and materials on graph databases and knowledge graphs
 
 ## References
 - https://www.kaggle.com/learn-guide/5-day-genai
+- https://www.deloitte.com/nl/en/services/risk-advisory/perspectives/responsible-enterprise-decisions-knowledge-enriched-ai.html
+- 
