@@ -32,4 +32,7 @@ Collection of learnings and materials on graph databases and knowledge graphs
 ## References
 - https://www.kaggle.com/learn-guide/5-day-genai
 - https://www.deloitte.com/nl/en/services/risk-advisory/perspectives/responsible-enterprise-decisions-knowledge-enriched-ai.html
+- https://github.com/neo4j-partners/neo4j-sec-edgar
+- https://storage.googleapis.com/neo4j-datasets/hands-on-lab/form13-2023.csv
+- https://storage.googleapis.com/neo4j-datasets/hands-on-lab/form13-2023-05-11.csv
 - 
